@@ -1,1 +1,0 @@
-Kubernetes is an open-source container orchestration platform. It is used in enterprise environments to deploy, scale, and monitor containerized workloads. This scenario will walk you through some common k8s use cases.
